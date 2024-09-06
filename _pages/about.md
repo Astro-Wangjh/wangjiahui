@@ -6,7 +6,10 @@ title: "
 <br>
 <br>
 <br>
+<br>
 Academic Pages is a ready-to-fork GitHub Pages template for academic personal websits
+<br>
+<br>
 <br>
 <br>
 <br>
