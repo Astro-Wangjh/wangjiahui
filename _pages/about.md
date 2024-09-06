@@ -4,16 +4,14 @@ permalink: /
 title: "
 <br>
 <br>
-Welcome 
 <br>
 <br>
-to 
+<br>
+That I exist is a perpetual surprise which is life
 <br>
 <br>
-my 
 <br>
 <br>
-homepage!
 <br>
 <br>
 "
