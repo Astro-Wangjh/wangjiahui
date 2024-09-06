@@ -25,5 +25,5 @@ header:
 ---
 About me
 ======
-Jiahui Wang (王家辉) is an Astrophysics PhD student at the National Astronomical Observatory，CAS ([NAOC](https://nao.cas.cn/) & [UCAS](https://www.ucas.ac.cn/)). He received his bachelor's degree in Astronomy from Sun Yat-sen University ([SYSU](https://spa.sysu.edu.cn/)). His research interests are currently focused on the Milky Way, including Galactic archaeology, stellar parameter measurements and planetary engulfment events. 
+Jiahui Wang (王家辉) is an Astrophysics PhD student at the National Astronomical Observatories，CAS ([NAOC](https://nao.cas.cn/) & [UCAS](https://www.ucas.ac.cn/)). He received his bachelor's degree in Astronomy from Sun Yat-sen University ([SYSU](https://spa.sysu.edu.cn/)). His research interests are currently focused on the Milky Way, including Galactic archaeology, stellar parameter measurements and planetary engulfment events. 
 
