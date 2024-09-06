@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 
 header:
-  overlay_image: /images/MPA1.jpg  # 设置 Hero Image 的路径
+  overlay_image:/images/MPA1.jpg  # 设置 Hero Image 的路径
   overlay_filter: 0.5  # 设置图片上方的滤镜透明度，0 是全透明，1 是全黑
   
 ---
