@@ -4,14 +4,16 @@ permalink: /
 title: "
 <br>
 <br>
+Welcome 
 <br>
 <br>
-<br>
-Welcome to my homepage!
-<br>
+to 
 <br>
 <br>
+my 
 <br>
+<br>
+homepage!
 <br>
 <br>
 "
