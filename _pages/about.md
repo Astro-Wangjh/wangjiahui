@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "<div style='background-image: url(/wangjiahui/images/MPA1.jpg); background-size: cover; background-position: center; padding: 100px 0; color: white; text-align: center;'>Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites</div>"
+title: "<div style='background-image: url(/wangjiahui/images/MPA1.jpg); background-size: cover; background-position: center; padding: 100px 0; color: white; text-align: center;'>Academic Pages is a ready-to-fork GitHub Pages template for academic personal websits</div>"
 author_profile: true
 author_profile: true
 redirect_from: 
