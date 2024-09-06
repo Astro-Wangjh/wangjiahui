@@ -1,11 +1,16 @@
 ---
 layout: splash
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websits
+title: "
 <br>
 <br>
 <br>
-ff
+<br>
+Academic Pages is a ready-to-fork GitHub Pages template for academic personal websits
+<br>
+<br>
+<br>
+<br>
 "
 author_profile: false
 redirect_from: 
