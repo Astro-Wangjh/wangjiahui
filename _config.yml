@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me1.jpg"
   name             : "Jiahui Wang (王家辉)"
   pronouns         : # he 
   bio              : "An astronomer, a traveller, a thinker."
