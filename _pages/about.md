@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /wangjiahui/images/MPA1.jpg  # 设置大背景图片路径
+  overlay_image: https://raw.githubusercontent.com/Astro-Wangjh/wangjiahui/master/images/MPA1.jpg  # 设置大背景图片路径
   overlay_filter: 0.3  # 可选，调整背景图上方的透明滤镜，0 为无滤镜，1 为完全黑色
 ---
 
