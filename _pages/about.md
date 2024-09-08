@@ -7,7 +7,7 @@ title: "
 <br>
 <br>
 <br>
-That I exist is a perpetual surprise which is life
+That I exist is a perpetual surprise which is life.
 <br>
 <br>
 <br>
