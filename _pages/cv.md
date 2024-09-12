@@ -35,12 +35,8 @@ None
   
 Skills
 ======
-* computer language: Python, C, Linux, LATEX, Mathematica, Matlab
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer language: Python, C, Linux, LATEX, Mathematica, Matlab
+* Sports: Football, Cycling, Skiing
 
 Publications
 ======
