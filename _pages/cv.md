@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018-
 * B.S. in Astronomy, Sun Yat-sen University (中山大学), 2020-2023
 * B.S. in Physics, Sun Yat-sen University (中山大学), 2019-2020
 
