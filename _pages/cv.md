@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018-
+  * GPA: 3.9/4.0 
 * B.S. in Astronomy, Sun Yat-sen University (中山大学), 2020-2023
+  * GPA: 4.0/5.0   
 * B.S. in Physics, Sun Yat-sen University (中山大学), 2019-2020
 
   
