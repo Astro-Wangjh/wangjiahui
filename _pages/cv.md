@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Astrophysics, National Astronomical Observatories, CAS (国家天文台)
-
+* Ph.D in Astrophysics, National Astronomical Observatories, CAS (国家天文台)   
 &emsp;&emsp;& University of Chinese Academy of Sciences (中国科学院大学), 2023-
   * GPA: 3.9/4.0 
 * B.S. in Astronomy, Sun Yat-sen University (中山大学), 2020-2023
