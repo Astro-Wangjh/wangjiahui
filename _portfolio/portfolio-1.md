@@ -19,4 +19,9 @@ The **Kota Kinabalu City Mosque**, located in Kota Kinabalu, the capital city of
 The **Kota Kinabalu Wetland** is a mangrove swamp in the heart of Kota Kinabalu City on the northern coast of Sabah State. The Site supports three globally threatened species, including the critically endangered mangrove Bruguiera hainesii, and two vulnerable water birds, the Chinese egret (Egretta eulophotes) and the lesser adjutant (Leptoptilos javanicus).    
 该遗址是位于沙巴州北部海岸哥打京那巴鲁市中心的一片红树林沼泽。该保护区有三种全球濒危物种，包括极度濒危的红树林(Bruguiera hainesii)，以及两种脆弱的水鸟，即中国白鹭(Egretta eulophotes)和小白鹭(Leptoptilos javanicus)。   
 <img src='/wangjiahui/images/portfolio/malaysia/mangrove forest.jpg' width="600">   
+
 <img src='/wangjiahui/images/portfolio/malaysia/egret.jpg' width="600">
+
+The sunset and flying birds in Kota Kinabalu, a moment of tranquility.   
+哥打基纳巴卢的落日与飞鸟，安宁的时刻。  
+<img src='/wangjiahui/images/portfolio/malaysia/Sunset and Birds.jpg' width="600">
