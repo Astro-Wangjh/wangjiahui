@@ -40,7 +40,7 @@ People eating with their hands, a unique way of dining.
 <img src='/wangjiahui/images/portfolio/malaysia/Rice eaten by hand.jpg' width="600">  
 
 Children in Malaysia.
-马来西亚的孩子们。
+马来西亚的孩子们。    
 <img src='/wangjiahui/images/portfolio/malaysia/boy.jpg' width="600">    
 
 <img src='/wangjiahui/images/portfolio/malaysia/angry.jpg' width="600">   
