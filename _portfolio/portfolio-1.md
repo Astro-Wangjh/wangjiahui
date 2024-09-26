@@ -1,9 +1,9 @@
 ---
 title: "Malaysian style"
-excerpt: "A memorable time in Malaysia.<br/><img src='/wangjiahui/images/portfolio/malaysia/governments.jpg'>"
+excerpt: "A memorable time in Malaysia.<br/><img src='/wangjiahui/images/portfolio/malaysia/cover.jpg'>"
 collection: portfolio
 ---
-
+dd
 
 ![这是图片](../images/portfolio/malaysia/boy.jpg "yunnan")
 
