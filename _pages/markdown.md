@@ -8,6 +8,11 @@ redirect_from:
 ---
 ## Code
 ### Linux command
+服务器jupyter远程连接
+```markdown
+jupyter notebook --no-browser --port=8889
+ssh -N -f -L localhost:8892:localhost:8889 jhwang@10.3.10.160
+```
 当前文件夹下的fits文件数
 ```markdown
 ls -l *.fits 2>/dev/null | wc -l  
