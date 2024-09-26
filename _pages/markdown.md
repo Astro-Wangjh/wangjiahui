@@ -47,6 +47,14 @@ ckepler = SkyCoord(ra=ra1*u.degree, dec=dec1*u.degree)
 clamo = SkyCoord(ra=check[1].data['ra']*u.degree, dec=check[1].data['dec']*u.degree)
 idx1,idx2,sep2d,dist3d=astropy.coordinates.search_around_sky(clamo, ckepler, seplimit=3*u.arcsec, storekdtree='kdtree_sky')
 ```
+天文间距计算
+```python
+c1new=SkyCoord(ra=DR7['RA'][newidx11]*u.degree, dec=DR7['DEC'][newidx11]*u.degree)
+c2new=SkyCoord(ra=DR7['RA'][newidx1]*u.degree, dec=DR7['DEC'][newidx1]*u.degree)
+sep=c1new.separation(c2new)
+sep=sep.to(u.arcsecond)/u.arcsecond
+```
+
 
 ### Linux command
 服务器jupyter远程连接
