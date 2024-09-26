@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number"
-excerpt: "Short description of portfolio item number 1<br/><img src='/wangjiahui/images/500x300.png'>"
+title: "Malaysian style"
+excerpt: "A memorable time in Malaysia.<br/><img src='/wangjiahui/images/portfolio/malaysia/'>"
 collection: portfolio
 ---
 
