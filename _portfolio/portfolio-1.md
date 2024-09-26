@@ -34,7 +34,7 @@ People eating with their hands, a unique way of dining.
 吃手抓饭的人们，一种独特的饮食方式。  
 <img src='/wangjiahui/images/portfolio/malaysia/Rice eaten by hand.jpg' width="600">  
 
-Children in Malaysia.
+Children in Malaysia.    
 马来西亚的孩子们。    
 <img src='/wangjiahui/images/portfolio/malaysia/boy.jpg' width="600">    
 
