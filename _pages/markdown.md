@@ -7,6 +7,35 @@ redirect_from:
   - /markdown.html
 ---
 ## Code
+### Python
+最好用的交叉函数
+```python
+def cross_match(array_1,array_2):
+    array1 = array_1
+    array2 = array_2
+    # 构建哈希表
+    hash_table = {}
+    for i, num in enumerate(array1):
+        if num not in hash_table:
+            hash_table[num] = [i]
+        else:
+            hash_table[num].append(i)
+
+    cross1 = []
+    x=0
+    cross2 = []
+    for num in tqdm(array2):
+        if num in hash_table:
+            cross1.extend(hash_table[num])
+            if len(hash_table[num])>1:
+                cross2.extend([x for _ in range(len(hash_table[num]))] )
+            else :
+                cross2.extend([x])
+        x=x+1
+    return cross1,cross2
+```
+
+
 ### Linux command
 服务器jupyter远程连接
 ```markdown
