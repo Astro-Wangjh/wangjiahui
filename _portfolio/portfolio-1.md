@@ -1,6 +1,6 @@
 ---
 title: "Malaysian style"
-excerpt: "A memorable time in Malaysia.<br/><img src='/wangjiahui/images/portfolio/malaysia/governments.jpg' width="600">"
+excerpt: "A memorable time in Malaysia.<br/><img src='/wangjiahui/images/portfolio/malaysia/governments.jpg' width="400">"
 collection: portfolio
 ---
 
