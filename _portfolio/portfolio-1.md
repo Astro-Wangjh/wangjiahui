@@ -4,6 +4,7 @@ excerpt: "A memorable time in Malaysia.<br/><img src='/wangjiahui/images/portfol
 collection: portfolio
 ---
 dd
+<img src='/wangjiahui/images/portfolio/malaysia/cover.jpg'>
 
 ![这是图片](../images/portfolio/malaysia/boy.jpg "yunnan")
 
