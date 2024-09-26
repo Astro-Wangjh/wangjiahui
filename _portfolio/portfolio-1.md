@@ -3,8 +3,8 @@ title: "Malaysian style"
 excerpt: "A memorable time in Malaysia.<br/><img src='/wangjiahui/images/portfolio/malaysia/cover.jpg'>"
 collection: portfolio
 ---
-ddr5
-<img src='/images/portfolio/malaysia/cover.jpg'>
+ddr9
+<img src='/wangjiahui/images/portfolio/malaysia/cover.jpg'>
 
 ![这是图片](/images/portfolio/malaysia/boy.jpg "yunnan")
 
