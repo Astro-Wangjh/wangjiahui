@@ -10,7 +10,7 @@ redirect_from:
 ### Linux command
 
 ```Linux
-print("Hello World!", quote = FALSE)
+ls -l *.fits 2>/dev/null | wc -l  #当前文件夹下的fits文件数
 ```
 
 
