@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Code
 ### Python
-最好用的id交叉函数
+最好用的大样本id交叉函数
 ```python
 def cross_match(array_1,array_2):
     array1 = array_1
