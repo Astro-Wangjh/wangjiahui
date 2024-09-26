@@ -47,7 +47,7 @@ Children in Malaysia.
 
 
 A monk lost in his book by the walls of the mosque.  
-清真寺墙外读书的僧人。 
+清真寺墙外读书的僧人。    
 <img src='/wangjiahui/images/portfolio/malaysia/monk.jpg' width="600">  
 
 
