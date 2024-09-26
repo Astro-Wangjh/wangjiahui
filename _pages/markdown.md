@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Code
 ### Python
-最好用的交叉函数
+最好用的id交叉函数
 ```python
 def cross_match(array_1,array_2):
     array1 = array_1
@@ -35,6 +35,18 @@ def cross_match(array_1,array_2):
     return cross1,cross2
 ```
 
+星表交叉
+```python
+import astropy
+from astropy.coordinates import SkyCoord
+from astropy import units as u
+
+ra1=xianglk[1].data['ra'][index2]/24*360
+dec1=xianglk[1].data['dec'][index2]
+ckepler = SkyCoord(ra=ra1*u.degree, dec=dec1*u.degree)
+clamo = SkyCoord(ra=check[1].data['ra']*u.degree, dec=check[1].data['dec']*u.degree)
+idx1,idx2,sep2d,dist3d=astropy.coordinates.search_around_sky(clamo, ckepler, seplimit=3*u.arcsec, storekdtree='kdtree_sky')
+```
 
 ### Linux command
 服务器jupyter远程连接
