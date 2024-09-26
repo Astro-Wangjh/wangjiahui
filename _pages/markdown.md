@@ -8,14 +8,14 @@ redirect_from:
 ---
 ## Code
 ### Linux command
-
-```Linux
-ls -l *.fits 2>/dev/null | wc -l  #当前文件夹下的fits文件数
+当前文件夹下的fits文件数
+```markdown
+ls -l *.fits 2>/dev/null | wc -l  
 ```
-```Linux
+```markdown
 nohup cpulimit -l 1500 python newage_replenish.py > output.log 2>&1 &     #挂后台运行并限制cpu使用率
 ```
-```Linux
+```markdown
 top -u jhwang    #指定用户的后台程序
 ```
 
