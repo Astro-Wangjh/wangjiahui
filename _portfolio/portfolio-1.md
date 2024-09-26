@@ -5,6 +5,6 @@ collection: portfolio
 ---
 
 
-![这是图片](/wangjiahui/images/portfolio/malaysia/boy.jpg "yunnan")
+![这是图片](../images/portfolio/malaysia/boy.jpg "yunnan")
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
