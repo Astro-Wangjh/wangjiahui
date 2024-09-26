@@ -30,11 +30,6 @@ bustling seafood market.
 热闹的海鲜市场。   
 <img src='/wangjiahui/images/portfolio/malaysia/bazaars.jpg' width="600">
 
-
-People eating with their hands, a unique way of dining.   
-吃手抓饭的人们，一种独特的饮食方式。  
-<img src='/wangjiahui/images/portfolio/malaysia/Rice eaten by hand.jpg' width="600">
-
 People eating with their hands, a unique way of dining.   
 吃手抓饭的人们，一种独特的饮食方式。  
 <img src='/wangjiahui/images/portfolio/malaysia/Rice eaten by hand.jpg' width="600">  
