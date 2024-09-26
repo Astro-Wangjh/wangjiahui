@@ -1,6 +1,6 @@
 ---
 title: "Dali and a squirrel"
-excerpt: "A travel to Dali<br/><img src='/wangjiahui/images/portfolio/dali/1.jpg'>"
+excerpt: "A travel to Dali<br/><img src='/wangjiahui/images/portfolio/dali/cover.jpg'>"
 collection: portfolio
 ---
 The **Xiao Putuo Island**, a small but famous island in Erhai Lake, known for its beautiful Guanyin Pavilion.    
