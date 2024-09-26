@@ -8,7 +8,7 @@ collection: portfolio
 <img src='/wangjiahui/images/portfolio/malaysia/governments.jpg' width="600">
 
 The **Kota Kinabalu City Mosque**, located in Kota Kinabalu, the capital city of Sabah in Malaysia, is famous for being situated over water, giving it the name 'Floating Mosque'.   
-哥打基纳巴卢市清真寺。这座清真寺位于马来西亚沙巴州的哥打基纳巴卢市，是一座非常著名的水上清真寺，因其坐落在水面上而得名，常被称为“水上清真寺”。
+哥打基纳巴卢市清真寺。这座清真寺位于马来西亚沙巴州的哥打基纳巴卢市，是一座非常著名的水上清真寺，因其坐落在水面上而得名，常被称为“水上清真寺”。   
 <img src='/wangjiahui/images/portfolio/malaysia/Water Mosque.jpg' width="600">
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
