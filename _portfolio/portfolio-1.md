@@ -25,3 +25,34 @@ The **Kota Kinabalu Wetland** is a mangrove swamp in the heart of Kota Kinabalu 
 The sunset and flying birds in Kota Kinabalu, a moment of tranquility.   
 哥打基纳巴卢的落日与飞鸟，安宁的时刻。  
 <img src='/wangjiahui/images/portfolio/malaysia/Sunset and Birds.jpg' width="600">
+
+bustling seafood market.  
+热闹的海鲜市场。   
+<img src='/wangjiahui/images/portfolio/malaysia/bazaars.jpg' width="600">
+
+
+People eating with their hands, a unique way of dining.   
+吃手抓饭的人们，一种独特的饮食方式。  
+<img src='/wangjiahui/images/portfolio/malaysia/Rice eaten by hand.jpg' width="600">
+
+People eating with their hands, a unique way of dining.   
+吃手抓饭的人们，一种独特的饮食方式。  
+<img src='/wangjiahui/images/portfolio/malaysia/Rice eaten by hand.jpg' width="600">  
+
+Children in Malaysia.
+马来西亚的孩子们。
+<img src='/wangjiahui/images/portfolio/malaysia/boy.jpg' width="600">    
+
+<img src='/wangjiahui/images/portfolio/malaysia/angry.jpg' width="600">   
+
+
+A monk lost in his book by the walls of the mosque.  
+清真寺墙外读书的僧人。 
+<img src='/wangjiahui/images/portfolio/malaysia/monk.jpg' width="600">  
+
+
+
+
+
+
+
