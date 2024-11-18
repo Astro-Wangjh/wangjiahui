@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'In this work, we set out to estimate the age of dwarf stars from the LAMOST spectra with a data-driven approach.'
-date: 
+date: 2024-12-01
 venue: ''
 slidesurl: ''
 paperurl: ''
