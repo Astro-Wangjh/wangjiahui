@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Here we employ DD-PAYNE, a data-driven method regularized by differential spectra from stellar physical models, to the DESI early data release spectra for stellar abundance determination.'
 date: 2024-8-01
-venue: 'APJS'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+venue: 'ApJS'
+slidesurl: ''
+paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4365/ad51dd/pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
