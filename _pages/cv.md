@@ -20,6 +20,8 @@ Education
 
 Honours
 ======
+Excellent Student Cadre of the University of Chinese Academy of Sciences (中国科学院大学优秀学生干部), 2025
+
 University of Chinese Academy of Sciences Scholarships for Undergraduates (中国科学院大学大学生奖学金), 2022
 
 Asia and Pacific Mathematical Contest in Modeling, First Prize (亚太地区大学生数学建模竞赛一等奖), 2021
