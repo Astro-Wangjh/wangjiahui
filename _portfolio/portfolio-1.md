@@ -10,11 +10,13 @@ collection: portfolio
 
 The unique graffiti in Kuala Lumpur   
 吉隆坡市内极具特色的涂鸦   
-<img src='/wangjiahui/images/portfolio/malaysia/scrawl.jpg' width="600">
+
+![这是图片](../images/portfolio/malaysia/scrawl.jpg "1")
 
 The **Kota Kinabalu City Mosque**, located in Kota Kinabalu, the capital city of Sabah in Malaysia, is famous for being situated over water, giving it the name 'Floating Mosque'.   
 哥打基纳巴卢市清真寺。这座清真寺位于马来西亚沙巴州的哥打基纳巴卢市，是一座非常著名的水上清真寺，因其坐落在水面上而得名，常被称为“水上清真寺”。   
-<img src='/wangjiahui/images/portfolio/malaysia/Water Mosque.jpg' width="600">
+
+![这是图片](../images/portfolio/malaysia/Water Mosque.jpg "1")
 
 
 The **Kota Kinabalu Wetland** is a mangrove swamp in the heart of Kota Kinabalu City on the northern coast of Sabah State. The Site supports three globally threatened species, including the critically endangered mangrove Bruguiera hainesii, and two vulnerable water birds, the Chinese egret (Egretta eulophotes) and the lesser adjutant (Leptoptilos javanicus).    
