@@ -13,7 +13,7 @@ The unique graffiti in Kuala Lumpur
 
 The **Kota Kinabalu City Mosque**, located in Kota Kinabalu, the capital city of Sabah in Malaysia, is famous for being situated over water, giving it the name 'Floating Mosque'.   
 哥打基纳巴卢市清真寺。这座清真寺位于马来西亚沙巴州的哥打基纳巴卢市，是一座非常著名的水上清真寺，因其坐落在水面上而得名，常被称为“水上清真寺”。   
-<img src='/images/portfolio/malaysia/Water_Mosque.jpg' width="600"> 
+<img src='/images/portfolio/malaysia/Water Mosque.jpg' width="600"> 
 
 The **Kota Kinabalu Wetland** is a mangrove swamp in the heart of Kota Kinabalu City on the northern coast of Sabah State. The Site supports three globally threatened species, including the critically endangered mangrove Bruguiera hainesii, and two vulnerable water birds, the Chinese egret (Egretta eulophotes) and the lesser adjutant (Leptoptilos javanicus).    
 哥打基纳巴卢湿地是位于沙巴州北部海岸哥打京那巴鲁市中心的一片红树林沼泽。该保护区有三种全球濒危物种，包括极度濒危的红树林(Bruguiera hainesii)，以及两种脆弱的水鸟，即中国白鹭(Egretta eulophotes)和小白鹭(Leptoptilos javanicus)。   
@@ -23,7 +23,7 @@ The **Kota Kinabalu Wetland** is a mangrove swamp in the heart of Kota Kinabalu 
 
 The sunset and flying birds in Kota Kinabalu, a moment of tranquility.   
 哥打基纳巴卢的落日与飞鸟，安宁的时刻。  
-<img src='/images/portfolio/malaysia/Sunset and Birds.jpg' width="600">
+<img src='/images/portfolio/malaysia/Sunset_and_Birds.jpg' width="600">
 
 bustling seafood market.  
 热闹的海鲜市场。   
