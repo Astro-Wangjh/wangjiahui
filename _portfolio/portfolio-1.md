@@ -7,7 +7,7 @@ collection: portfolio
 马来西亚的独立广场（Merdeka Square）位于吉隆坡市中心，在马来西亚历史上极具意义。1957年8月31日，马来西亚在此宣布脱离英国的殖民统治，正式独立。因此，这个广场也成为了马来西亚独立的象征。   
 
 ![这是图片](../images/portfolio/malaysia/governments.jpg "1")
-![这是图片](../images/sitian.jpg "sitian")
+<img src='../images/portfolio/malaysia/governments.jpg' width="600">   
 
 The unique graffiti in Kuala Lumpur   
 吉隆坡市内极具特色的涂鸦   
