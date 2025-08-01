@@ -1,6 +1,6 @@
 ---
 title: "Malaysian style"
-excerpt: "A memorable time in Malaysia.<br/><img src='/wangjiahui/images/portfolio/malaysia/cover.jpg'>"
+excerpt: "A memorable time in Malaysia.<br/><img src='/images/portfolio/malaysia/cover.jpg'>"
 collection: portfolio
 ---
 **Merdeka Square** is a prominent landmark located in the heart of Kuala Lumpur, Malaysia. It is historically significant as the place where Malaysia declared its independence (or "Merdeka") from British rule on August 31, 1957.   
