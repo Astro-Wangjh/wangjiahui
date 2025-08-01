@@ -17,32 +17,32 @@ The **Kota Kinabalu City Mosque**, located in Kota Kinabalu, the capital city of
 
 The **Kota Kinabalu Wetland** is a mangrove swamp in the heart of Kota Kinabalu City on the northern coast of Sabah State. The Site supports three globally threatened species, including the critically endangered mangrove Bruguiera hainesii, and two vulnerable water birds, the Chinese egret (Egretta eulophotes) and the lesser adjutant (Leptoptilos javanicus).    
 哥打基纳巴卢湿地是位于沙巴州北部海岸哥打京那巴鲁市中心的一片红树林沼泽。该保护区有三种全球濒危物种，包括极度濒危的红树林(Bruguiera hainesii)，以及两种脆弱的水鸟，即中国白鹭(Egretta eulophotes)和小白鹭(Leptoptilos javanicus)。   
-<img src='/wangjiahui/images/portfolio/malaysia/mangrove forest.jpg' width="600">   
+<img src='/images/portfolio/malaysia/mangrove forest.jpg' width="600">   
 
-<img src='/wangjiahui/images/portfolio/malaysia/egret.jpg' width="600">
+<img src='/images/portfolio/malaysia/egret.jpg' width="600">
 
 The sunset and flying birds in Kota Kinabalu, a moment of tranquility.   
 哥打基纳巴卢的落日与飞鸟，安宁的时刻。  
-<img src='/wangjiahui/images/portfolio/malaysia/Sunset and Birds.jpg' width="600">
+<img src='/images/portfolio/malaysia/Sunset and Birds.jpg' width="600">
 
 bustling seafood market.  
 热闹的海鲜市场。   
-<img src='/wangjiahui/images/portfolio/malaysia/bazaars.jpg' width="600">
+<img src='/images/portfolio/malaysia/bazaars.jpg' width="600">
 
 People eating with their hands, a unique way of dining.   
 吃手抓饭的人们，一种独特的饮食方式。  
-<img src='/wangjiahui/images/portfolio/malaysia/Rice eaten by hand.jpg' width="600">  
+<img src='/images/portfolio/malaysia/Rice eaten by hand.jpg' width="600">  
 
 Children in Malaysia.    
 马来西亚的孩子们。    
-<img src='/wangjiahui/images/portfolio/malaysia/boy.jpg' width="600">    
+<img src='/images/portfolio/malaysia/boy.jpg' width="600">    
 
-<img src='/wangjiahui/images/portfolio/malaysia/angry.jpg' width="600">   
+<img src='/images/portfolio/malaysia/angry.jpg' width="600">   
 
 
 A monk lost in his book by the walls of the mosque.  
 清真寺墙外读书的僧人。    
-<img src='/wangjiahui/images/portfolio/malaysia/monk.jpg' width="600">  
+<img src='/images/portfolio/malaysia/monk.jpg' width="600">  
 
 
 
