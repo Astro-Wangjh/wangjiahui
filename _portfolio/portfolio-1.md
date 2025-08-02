@@ -1,5 +1,5 @@
 ---
-title: "Malaysian style"
+title: "Malaysia"
 excerpt: "A memorable time in Malaysia.<br/><img src='/images/portfolio/malaysia/cover.jpg'>"
 collection: portfolio
 ---
