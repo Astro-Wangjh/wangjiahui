@@ -21,9 +21,6 @@ The **Kota Kinabalu Wetland** is a mangrove swamp in the heart of Kota Kinabalu 
 
 <img src='/images/portfolio/malaysia/egret.jpg' width="600">
 
-The sunset and flying birds in Kota Kinabalu, a moment of tranquility.   
-哥打基纳巴卢的落日与飞鸟，安宁的时刻。  
-<img src='/images/portfolio/malaysia/Sunset_and_Birds.jpg' width="600">
 
 bustling seafood market.  
 热闹的海鲜市场。   
