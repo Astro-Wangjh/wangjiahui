@@ -7,7 +7,7 @@ title: "
 <br>
 <br>
 <br>
-Welcome! Here, I explore the Milky Way and the local universe.
+Welcome! Here, I explore the Milky Way and the Local Universe.
 <br>
 <br>
 <br>
