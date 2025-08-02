@@ -7,7 +7,7 @@ title: "
 <br>
 <br>
 <br>
-That I exist is a perpetual surprise which is life.
+Welcome! Here, I explore the Milky Way and the local universe.
 <br>
 <br>
 <br>
@@ -27,5 +27,5 @@ About me
 ======
 
 <p style="text-align: justify;">
-Jiahui Wang (王家辉) is an Astrophysics PhD student at the National Astronomical Observatories，CAS (<a href="https://nao.cas.cn/">NAOC</a> & <a href="https://www.ucas.ac.cn/">UCAS</a>). He received his bachelor's degree in Astronomy from Sun Yat-sen University (<a href="https://spa.sysu.edu.cn/">SYSU</a>). His research interests are currently focused on the Milky Way, including Galactic archaeology, stellar parameter measurements and planetary engulfment events. 
+Jiahui Wang (王家辉) is an Astrophysics PhD student at the National Astronomical Observatories，CAS (<a href="https://nao.cas.cn/">NAOC</a> & <a href="https://www.ucas.ac.cn/">UCAS</a>). He received his bachelor's degree in Astronomy from Sun Yat-sen University (<a href="https://spa.sysu.edu.cn/">SYSU</a>). His research interests are currently focused on the Milky Way, including Galactic archaeology, stellar parameter measurements and local universe. 
 </p>
