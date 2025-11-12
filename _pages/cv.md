@@ -33,7 +33,11 @@ Sun Yat-sen University Outstanding Student First Class Scholarship (中山大学
   
 Work experience
 ======
-None
+President, Graduate Student Union (NAOC), 2025 (国家天文台研究生会主席)
+Class Representative, University of Chinese Academy of Sciences, 2024–2025 (中国科学院大学班长)
+Council Member, Alumni Association of the School of Physics and Astronomy (SYSU), 2024 (中山大学物理与天文学院校友会理事)
+Council Member, Alumni Association of Sun Yat-sen University, 2023 (中山大学校友会年级理事)
+Class Representative, Sun Yat-sen University, 2021–2023 (中山大学天文班班长)
   
 Skills
 ======
