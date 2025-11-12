@@ -41,7 +41,7 @@ Council Member, Alumni Association of the School of Physics and Astronomy (SYSU)
 
 Council Member, Alumni Association of Sun Yat-sen University, 2023 (中山大学校友会年级理事)
 
-Class Representative, Sun Yat-sen University, 2021–2023 (中山大学天文班班长)
+Class Representative, Sun Yat-sen University, 2021–2023 (中山大学班长)
   
 Skills
 ======
