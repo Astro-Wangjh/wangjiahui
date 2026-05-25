@@ -9,6 +9,7 @@ slidesurl: ''
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4365/ad51dd/pdf'
 citation: 'Zhang M., Xiang M., Ting Y.-S., <strong>Wang J.</strong>, Li H., Zou H., Nie J., et al., 2024, ApJS, 273, 19. doi:10.3847/1538-4365/ad51dd'
 ---
+![这是图片](../images/cover/zhangdesi.png)
 
 ![这是图片](../images/pub/zhang1.png)
 
