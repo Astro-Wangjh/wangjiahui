@@ -20,7 +20,9 @@ Education
 
 Honours
 ======
-Excellent Student Cadre of the University of Chinese Academy of Sciences (中国科学院大学优秀学生干部), 2025
+Model Merit Student, University of Chinese Academy of Sciences (中国科学院大学三好学生标兵), 2026
+
+Excellent Student Cadre, University of Chinese Academy of Sciences (中国科学院大学优秀学生干部), 2025
 
 University of Chinese Academy of Sciences Scholarships for Undergraduates (中国科学院大学大学生奖学金), 2022
 
@@ -28,7 +30,7 @@ Asia and Pacific Mathematical Contest in Modeling, First Prize (亚太地区大�
 
 China Aerospace Foundation-HuanYa Aerospace Scholarship (中国航天基金会-环亚航天奖学金), 2020-2021
 
-Sun Yat-sen University Outstanding Student First Class Scholarship (中山大学一等奖学金), 2020-2022
+Outstanding Student First Class Scholarship, Sun Yat-sen University (中山大学一等奖学金), 2020-2022
 
   
 Work experience
