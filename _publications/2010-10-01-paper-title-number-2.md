@@ -9,6 +9,8 @@ slidesurl: ''
 paperurl: ''
 citation: '<strong>Jia-Hui Wang</strong>, Maosheng Xiang, Meng Zhang, Ji-Wei Xie, Jian Ge and Ji-Feng Liu'
 ---
+![这是图片](../images/cover/age.png)
+
 
 ![这是图片](../images/pub/wang1.png)
 
